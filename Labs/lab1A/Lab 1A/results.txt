@@ -1,0 +1,37 @@
+part one:
+
+Enter number of arrays to test
+10
+Enter largest array size
+20
+N: 2, T(n): 527600 nanosecs, T(n)/(n*n): 131900.0, T(n)/(nlogn): 263800.0
+N: 4, T(n): 8600 nanosecs, T(n)/(n*n): 537.5, T(n)/(nlogn): 1075.0
+N: 6, T(n): 1500 nanosecs, T(n)/(n*n): 41.666666666666664, T(n)/(nlogn): 96.7132018086354
+N: 8, T(n): 2100 nanosecs, T(n)/(n*n): 32.8125, T(n)/(nlogn): 87.5
+N: 10, T(n): 1800 nanosecs, T(n)/(n*n): 18.0, T(n)/(nlogn): 54.18539921951661
+N: 12, T(n): 2100 nanosecs, T(n)/(n*n): 14.583333333333334, T(n)/(nlogn): 48.815015488947715
+N: 14, T(n): 2100 nanosecs, T(n)/(n*n): 10.714285714285714, T(n)/(nlogn): 39.39743025557904
+N: 16, T(n): 2400 nanosecs, T(n)/(n*n): 9.375, T(n)/(nlogn): 37.5
+N: 18, T(n): 2600 nanosecs, T(n)/(n*n): 8.024691358024691, T(n)/(nlogn): 34.63957850428566
+N: 20, T(n): 3600 nanosecs, T(n)/(n*n): 9.0, T(n)/(nlogn): 41.64807836875665
+
+
+Enter number of arrays to test
+5
+Enter largest array size
+10
+N: 2, T(n): 3000 nanosecs, T(n)/(n*n): 750.0, T(n)/(nlogn): 1500.0
+N: 4, T(n): 1800 nanosecs, T(n)/(n*n): 112.5, T(n)/(nlogn): 225.0
+N: 6, T(n): 20200 nanosecs, T(n)/(n*n): 561.1111111111111, T(n)/(nlogn): 1302.4044510229567
+N: 8, T(n): 5700 nanosecs, T(n)/(n*n): 89.0625, T(n)/(nlogn): 237.5
+N: 10, T(n): 4500 nanosecs, T(n)/(n*n): 45.0, T(n)/(nlogn): 135.46349804879154
+
+
+part two:
+unique1 500 -> Time Elapsed: 0.0025771 secs
+unique2 500 -> Time Elapsed: 1.143E-4 secs
+
+
+
+
+
